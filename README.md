@@ -1,5 +1,5 @@
 # ParameterList
-Serialization module accompanied by a tester PPin Python.
+Serialization module accompanied by a tester in Python.
 
 It is suitable for the communication between processes such as a remote console for the main process and the actual main process, because it can serialize(deserialize) integers, strings, and stl vectors. It can also serialize(deserialize) ParameterLists.
 The whole implementation is in a header file for easiness.
